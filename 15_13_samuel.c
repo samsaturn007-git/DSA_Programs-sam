@@ -1,6 +1,3 @@
-/*  Author: Vanessa jency   Branch: IT  Roll no.: 37
-    Circular queue
-*/
 
 #include<stdio.h>
 #define size 5
