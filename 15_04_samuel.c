@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 void percentage(int arr[], float percentage[], int n) {
     for (int i = 0; i < n - 1; i++) {
