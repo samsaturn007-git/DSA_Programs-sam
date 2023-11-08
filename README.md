@@ -17,15 +17,6 @@
 | Q7         | Define a structure data type called time_struct containing 3 members int hour, int minute and int second. Write functions that accept the structure to perform the following operations: <br> 1. Input new time <br> 2. Display the time <br> 3. Update the time such that the function accepts the time_struct and increments the time by one second.If the increment results in 60 seconds, the then second member is  set to 0 and the minute is incremented by 1. Then, if the result is 60 minutes, the minute member is set to 0 and the hour member is incremented by 1. Finally when the hour becomes 24, it is set to zero. | [Link](https://github.com/samsaturn007-git/DSA_Programs-sam/blob/main/15_07_samuel.c      )  |
 | Q8         | Write a function that compares two arrays and returns 1 if they are identical and 0 otherwise.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | [Link](https://github.com/samsaturn007-git/DSA_Programs-sam/blob/main/15_08_samuel.c     )
  |
-| Q9         | Write a program in C to count the total number of duplicate elements in an array.
-
-                                                                                        |  [Link](https://github.com/samsaturn007-git/DSA_Programs-sam/blob/main/15_09_samuel.c   ) 
- |
-| Q10        | Write a progam in C to print all unique elements in an array.
-
-                                                                                        |  [Link](https://github.com/samsaturn007-git/DSA_Programs-sam/blob/main/15_10_samuel.c    )
- |
-
 
 <br/><br/>
 #    Experiment List (Part B)
