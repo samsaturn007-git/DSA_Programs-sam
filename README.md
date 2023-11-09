@@ -36,5 +36,5 @@
 | Q14   | Write a program to implement Quick sort   | [Link](https://github.com/samsaturn007-git/DSA_Programs-sam/blob/main/15_24_samuel.c)  |
 | Q15   | Write a program to implement Binary Search   | [Link](https://github.com/samsaturn007-git/DSA_Programs-sam/blob/main/15_25_samuel.c)  |
 | Q16   | Write a menu driven program to implement following operations in a binary search tree (BST).</br>1. Insertion of node</br>2. Search for an element </br>3. Count total nodes </br>4. Count Leaf nodes </br>| [Link](https://github.com/samsaturn007-git/DSA_Programs-sam/blob/main/15_26_samuel.c)  |
-| Q17   | Write a program to implement traversal of a graph through BFS   | [Link](https://github.com/OldResolution/DSA_programs/blob/662f9be537ab5622a9b2b1091bb5ad2369e648f6/Savin52_27.c)  |
-| Q18   | Write a program to implement traversal of a graph through DFS  | [Link](https://github.com/OldResolution/DSA_programs/blob/662f9be537ab5622a9b2b1091bb5ad2369e648f6/Savin52_28.c)  |
+| Q17   | Write a program to implement traversal of a graph through BFS   | [Link](https://github.com/samsaturn007-git/DSA_Programs-sam/blob/main/15_27_samuel.c)  |
+| Q18   | Write a program to implement traversal of a graph through DFS  | [Link](https://github.com/samsaturn007-git/DSA_Programs-sam/blob/main/15_28_samuel.c)  |
